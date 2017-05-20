@@ -1,22 +1,20 @@
-# Dracula for [Monodevelop](http://Monodevelop.com)
+# Dracula for [MonoDevelop](http://monodevelop.com)
 
-> A dark theme for [Monodevelop](http://monodevelop.com).
+> A dark theme for [MonoDevelop](http://monodevelop.com).
 
-![Screenshot](monodevelop-dracula-screenshot.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/monodevelop.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/monodevelop](https://draculatheme.com/monodevelop).
 
-`Preferences -> (Text Editor) Syntax Highlighting -> Add` and browse to `monodevelop-dracula.json`. On macOS, you can also manually copy the file to `~/Library/MonoDevelop-Unity-5.0/HighlightingSchemes/` folder.
-
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/monodevelop/graphs/contributors).
 
-[![Gabriel Le Breton](https://avatars0.githubusercontent.com/u/1264761?v=3&s=70)](https://github.com/gableroux) 
----
-[Gabriel Le Breton](https://github.com/gableroux)
+[![Gabriel Le Breton](https://avatars0.githubusercontent.com/u/1264761?v=3&s=70)](https://github.com/gableroux) |
+--- |
+[Gabriel Le Breton](https://github.com/gableroux) |
 
 ## License
 
