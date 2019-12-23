@@ -2,7 +2,7 @@
 
 > A dark theme for [MonoDevelop](http://monodevelop.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/monodevelop.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
